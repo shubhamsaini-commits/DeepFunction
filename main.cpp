@@ -1,8 +1,9 @@
 #include <iostream>
 #include <vector>
-#include <unordered_map>
-using namespace std;
-
+#include <functional>
+bool isBijective(std::function<int(int)> func , std::vector<int> domain , std::vector<int> range){
+    
+}
 int main(){
     
     return 0;
